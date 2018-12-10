@@ -1,4 +1,4 @@
-# DeepReinforcementLearning
+# AlphaZeroClone
 A replica of the AlphaZero methodology in Python
 
 See this article for a summary of the algorithm and run instructions.
